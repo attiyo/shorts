@@ -1,4 +1,4 @@
-# myapp
+# Shorts
 
 A new Flutter project.
 
